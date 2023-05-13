@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator_overloading", "operator_overloading\operator_overloading.csproj", "{8CD12744-145A-48B2-819E-0F379F51A56A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book_list", "Book_list\Book_list.csproj", "{94FC151D-7D52-43BD-B764-33BDC0672D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CD12744-145A-48B2-819E-0F379F51A56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CD12744-145A-48B2-819E-0F379F51A56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CD12744-145A-48B2-819E-0F379F51A56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FC151D-7D52-43BD-B764-33BDC0672D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FC151D-7D52-43BD-B764-33BDC0672D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FC151D-7D52-43BD-B764-33BDC0672D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FC151D-7D52-43BD-B764-33BDC0672D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
